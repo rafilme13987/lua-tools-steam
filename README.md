@@ -17,6 +17,10 @@ tout et fait en python, et le tools et trés facile a comprendre
  4. Exit System / vous permet de quitter l'application 
 ---------------------------------------
 
+pour le faire fonctionner c'est trés simple 
+
+lancer le (start.bat) puis une foit tous les module intaller l'application vas sourvrire
+
 # previews
 
 1.
@@ -25,3 +29,12 @@ tout et fait en python, et le tools et trés facile a comprendre
 
 2.
 <img width="1175" height="643" alt="image" src="https://github.com/user-attachments/assets/0b5bb948-8c3d-4c1a-9e06-026bf5794155" />
+
+3.
+<img width="1092" height="576" alt="image" src="https://github.com/user-attachments/assets/b7890d87-2839-4829-ac82-9c65764eef87" />
+
+voila vous pouvait l'uitliser
+
+point importent j'ai fait se projet dans un cadre pour pas nuire mais plutot de l'otomatisation 
+
+important les modification sur se projet et accepter ace une condiction de me @ et de afficher que c'est moi qui les fait et je serait ravie que le projet grandit 

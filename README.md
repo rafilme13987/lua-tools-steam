@@ -20,6 +20,8 @@ tout et fait en python, et le tools et trés facile a comprendre
 # previews
 
 1.
-https://i.ibb.co/rRTjVH63/Capture-d-cran-2026-06-20-052842.png
+<img width="1121" height="637" alt="image" src="https://github.com/user-attachments/assets/e71adf3e-affa-40d3-991d-27cfabd1a5ce" />
+
 
 2.
+<img width="1175" height="643" alt="image" src="https://github.com/user-attachments/assets/0b5bb948-8c3d-4c1a-9e06-026bf5794155" />

@@ -37,7 +37,7 @@ Voici un aperçu de l'interface et de l'outil en action :
 **Recherche et Téléchargement**
 <img width="1175" height="643" alt="image" src="https://github.com/user-attachments/assets/0b5bb948-8c3d-4c1a-9e06-026bf5794155" />
 
-**Interface Web (QWebEngine)**
+**quitter le tools**
 <img width="1092" height="576" alt="image" src="https://github.com/user-attachments/assets/b7890d87-2839-4829-ac82-9c65764eef87" />
 
 ---

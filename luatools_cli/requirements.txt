@@ -1,0 +1,6 @@
+PyQt6>=6.11.0
+PyQt6-WebEngine>=6.11.0
+prompt_toolkit>=3.0.40
+rich>=13.0.0
+urllib3
+requests
